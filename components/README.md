@@ -8,3 +8,4 @@ Decorator that marks a class as an Angular component and provides configuration 
     ng generete component name-component
     or 
     ng g c name-component
+    ng g c tasks --skip-tests -> remove test
